@@ -28,6 +28,7 @@ html,body{
 	color: white;
 	font-size: 18px;
 	line-height: normal;
+	padding:5% 7.9%;
 }
 .buttonTop2{
 	width:50%;
@@ -36,6 +37,7 @@ html,body{
 	color: rgb(95,192,205);
 	font-size: 17.5px;
 	line-height: normal;
+	padding:5% 7.9%;
 }
 .locaTion{
 	width: 30px;
