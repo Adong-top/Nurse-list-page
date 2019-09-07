@@ -1,6 +1,6 @@
 html,body{
 	margin:0;
-	height: 100%;
+	width: 100%;
 }
 .heads-box{
 	position: fixed;
@@ -11,7 +11,7 @@ html,body{
 }
 .buttons{
 	display: block;
-	width: 12.8346rem;
+	width: 12.84rem;
 	height: 40.8px;
 	margin: 0 auto;
 	/*把此div嵌合成背景*/
