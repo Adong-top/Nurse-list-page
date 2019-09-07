@@ -20,6 +20,7 @@ html,body{
 	margin-top: 7.5px;
 }
 .buttonTop1{
+	width:50%;
 	height: 40px;
 	background-color: rgb(85,168,179);
 	border: 0;
@@ -29,6 +30,7 @@ html,body{
 	line-height: normal;
 }
 .buttonTop2{
+	width:50%;
 	height: 40px;
 	border: 0;
 	color: rgb(95,192,205);
