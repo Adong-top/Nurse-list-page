@@ -11,7 +11,7 @@ html,body{
 }
 .buttons{
 	display: block;
-	width: 12.84rem;
+	width: 12.8346rem;
 	height: 40.8px;
 	margin: 0 auto;
 	/*把此div嵌合成背景*/
@@ -20,7 +20,7 @@ html,body{
 	margin-top: 7.5px;
 }
 .buttonTop1{
-	width:50%;
+	width: 50%;
 	height: 40px;
 	background-color: rgb(85,168,179);
 	border: 0;
@@ -28,16 +28,16 @@ html,body{
 	color: white;
 	font-size: 18px;
 	line-height: normal;
-	padding:5% 7.9%;
+	padding: 5% 7.9%;
 }
 .buttonTop2{
-	width:50%;
+	width: 50%;
 	height: 40px;
 	border: 0;
 	color: rgb(95,192,205);
 	font-size: 17.5px;
 	line-height: normal;
-	padding:5% 7.9%;
+	padding: 5% 7.9%;
 }
 .locaTion{
 	width: 30px;
@@ -104,6 +104,7 @@ html,body{
 	border-bottom: 0;
 	border-radius: 0;
 	font-size: 15.5px;
+	padding: 0 0 0 16px;
 }
 .xiala1{
 	margin-left: 30px;
