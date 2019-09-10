@@ -47,67 +47,51 @@ html,body{
 	margin-top: 11.5px;
 }
 .xiala1a{
+	position: fixed;
 	margin-top: 55px;
-	width: 33.066%;
-	height: 30px;
-	position: relative;
-	/*background-color: pink;*/
-	display: inline-block;
-	
-}
-.xiala1b{
-	z-index: -10;
-	margin-top: 55px;
-	width: 33.87%;
-	height: 40px;
-	position: relative;
-	/*background-color: pink;*/
-	display: inline-block;
+	width: 100%;
+	height: 41px;
 	border-bottom: 1px solid #ccc;
+	background-color: white;
+	/*display: inline-block;*/
 	
 }
 .xiala2{
+	float: right;
 	z-index: -10;
 	outline: none;
 	color: #999c;
-	width: 100%;
+	width: 33.066%;
 	height: 40px;
-	margin-top: 0;
-	border-left: none;
-	border-right: none;
-	border-top: none;
-	border-radius: 0;
-	font-size: 15.5px;
+	font-size: 17px;
+	border: 0;
+	padding-left: 6%;
 }
 .xiala2b{
+	float: left;
 	z-index: -10;
 	outline: none;
 	color: #999c;
-	width: 100%;
+	width: 33.066%; /*第一版*/
 	height: 40px;
-	margin-top: 0;
-	border-top: 0;
-	border-right: none;
-	border-left: none;
-	border-radius: 0;
-	font-size: 15.5px;
+	font-size: 17px;
+	padding-left: 8%; /*第一版*/
+	padding-right: 2%; /*第一版*/
+	border: 0;
+	/*width: 21.066%;*/  /*第二版*/
+	/*margin-left: 10%;*/  /*第二版*/
+	/*margin-right: 2%;*/  /*第二版*/
 }
 .xiala3{
+	float: left;
 	z-index: -10;
 	outline: none;
 	color: #999c;
-	width: 100%;
-	height: 30px;
-	margin-top: 5px;
-	margin-bottom: 5px;
-	border-top: 0;
-	border-bottom: 0;
-	border-radius: 0;
-	font-size: 15.5px;
-	padding: 0 0 0 16px;
-}
-.xiala1{
-	margin-left: 30px;
+	width: 33.87%;
+	height: 40px; 
+	border: 0;
+	font-size: 17px;
+	padding: 0 0 0 10%;
 }
 .trunks{
 	padding: 8px 7px;
@@ -146,11 +130,16 @@ html,body{
 	font-weight: bold;
 }
 .details{
+	z-index: -10;
 	float: left;
+	position: absolute;
 	margin-left: 1.7rem;
 	/*margin-top:10px;*/
 	font-size: 18px;
 	font-weight: bold;
+	height: 2.833rem;
+	line-height: 2em;
+	margin-bottom: 0;
 }
 .bottoms{
 	position: fixed;
